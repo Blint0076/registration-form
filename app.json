@@ -4,12 +4,12 @@
     "slug": "registration-form",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/cookbookIcon01.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/cookbookSplash01.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#a9927d"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
